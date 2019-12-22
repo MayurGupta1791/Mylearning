@@ -2,7 +2,7 @@ def add(x,y)
 x+y
 
 def sub(x,y)
-Pass
+return x-y
 
 def mul(x,y)
 Pass
